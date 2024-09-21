@@ -1,16 +1,9 @@
-# myapp
+# Manga Shop UI📱🛒 Usnig Flutter 🔥
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-09-21 221634](https://github.com/user-attachments/assets/7891dba0-6f8a-4d66-bc58-abdfd9643929)
+![Screenshot 2024-09-21 221659](https://github.com/user-attachments/assets/531be608-45a8-4777-8cd2-6e86d7837113)
